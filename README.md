@@ -35,3 +35,4 @@ March 11, 2023
     - .NET DPK and Rider for C# programming course
     - Visual Studio Code for general programming purpose
     - ibus-bamboo for vietnamese keyboard
+    - oh my zsh and install auto suggestions, syntax highlight plugin
