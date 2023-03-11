@@ -12,7 +12,7 @@ March 09, 2023
     - Customize terminal according to this https://www.youtube.com/watch?v=UvY5aFHNoEw&t=68s
     - Struggle with randomly download many packages
     - Sometime stuck in the Gurp booting menu
-    - 
+ 
  March 10, 2023
   - Switch completely to Ubuntu:
     - Booting and customize
