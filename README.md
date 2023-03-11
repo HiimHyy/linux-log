@@ -1,5 +1,6 @@
 # Linux Log
 
+
 March 09, 2023
   - Dual boot Windows 11 and Ubuntu using USB drive
   - Use Rufus to make USB bootable
@@ -12,6 +13,7 @@ March 09, 2023
     - Customize terminal according to this https://www.youtube.com/watch?v=UvY5aFHNoEw&t=68s
     - Struggle with randomly download many packages
     - Sometime stuck in the Gurp booting menu
+ 
  
  March 10, 2023
   - Switch completely to Ubuntu:
@@ -28,6 +30,7 @@ March 09, 2023
       - Customize terminal according to this https://www.youtube.com/watch?v=PZTLIVQxxEY
       - Manage to mount HDD to Fedora at /mnt/data
       - Change font to Source code pro
+
 
 March 11, 2023
   - Install:
