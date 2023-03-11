@@ -27,6 +27,7 @@ March 09, 2023
       - Rice the Fedora
       - Customize terminal according to this https://www.youtube.com/watch?v=PZTLIVQxxEY
       - Manage to mount HDD to Fedora at /mnt/data
+      - Change font to Source code pro
 
 March 11, 2023
   - Install:
