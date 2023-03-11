@@ -31,7 +31,7 @@ March 09, 2023
 
 March 11, 2023
   - Install:
-    - gcc for c/c++ compiling
+    - gcc and mono for c/c++ compiling
     - .NET DPK and Rider for C# programming course
     - Visual Studio Code for general programming purpose
     - ibus-bamboo for vietnamese keyboard
