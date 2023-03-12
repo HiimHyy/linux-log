@@ -36,3 +36,13 @@ March 11, 2023
     - Visual Studio Code for general programming purpose
     - ibus-bamboo for vietnamese keyboard
     - oh my zsh and install auto suggestions, syntax highlight plugin
+
+March 12, 2023
+  - Set up Timeshift for backup, partition 150gb for backup
+  - Download qbitorrent as a torrent client
+  - Install qemu as Virtual Machine software
+  - Boot Arch linux on qemu using archinstall
+  - Turn off secure boot
+  - Install packet tracer for networking class
+  - Config jetbrain toolbox script so it can track where the software is
+  
