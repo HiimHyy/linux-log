@@ -46,3 +46,8 @@ March 12, 2023
   - Install packet tracer for networking class
   - Config jetbrain toolbox script so it can track where the software is
   
+ March 21, 2023
+  - Download Microsoft Edge Developer to use Bing Chat
+  - Update VSCode
+  - School network block qBitorrent downloading
+  - Installing Webstorm from Jet Brains
